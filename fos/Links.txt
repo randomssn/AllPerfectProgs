@@ -1,0 +1,13 @@
+Type
+
+wget http://nowdrifting.com/oslab/cse-a/fos.zip
+
+or
+
+wget https://dl.dropboxusercontent.com/u/70261890/fos.zip
+
+or
+
+https://db.tt/YbZaZCJE
+
+to download!
